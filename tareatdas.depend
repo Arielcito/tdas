@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1713146571 source:c:\users\ariel.serato\desktop\programacion\tdass\tareatdas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dispositivo.h"
+	"persona.h"
+	"empleado.h"
+	"fecha.h"
+
+1712880728 source:c:\users\ariel.serato\desktop\programacion\tdass\tareatdas\dispositivo.c
+	"dispositivo.h"
+	<stddef.h>
+
+1712880432 c:\users\ariel.serato\desktop\programacion\tdass\tareatdas\dispositivo.h
+	"persona.h"
+
+1712884341 c:\users\ariel.serato\desktop\programacion\tdass\tareatdas\persona.h
+	"fecha.h"
+
+1712884741 source:c:\users\ariel.serato\desktop\programacion\tdass\tareatdas\persona.c
+	"persona.h"
+	"dispositivo.h"
+	"fecha.h"
+
+1713145022 c:\users\ariel.serato\desktop\programacion\tdass\tareatdas\fecha.h
+
+1713145031 source:c:\users\ariel.serato\desktop\programacion\tdass\tareatdas\fecha.c
+	"fecha.h"
+
+1713146464 source:c:\users\ariel.serato\desktop\programacion\tdass\tareatdas\empleado.c
+	"empleado.h"
+
+1713146464 c:\users\ariel.serato\desktop\programacion\tdass\tareatdas\empleado.h
+	"persona.h"
+
